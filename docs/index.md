@@ -10,7 +10,7 @@ The purpose of this project is to create a friendly-user, well optimized Game En
 ![xiaoPic](https://github.com/xaitta/Animation-Combat/blob/main/docs/media/Mi%20cara.jpg)
 
 Xiao Shan Costajussa is one of the team members, he worked on display options, bounding boxes, mouse picking, game objects logic, drag and drop and camera settings . We mainly worked all together.
-* [GitHub Profile](https://github.com/arinWald)
+* [GitHub Profile](https://github.com/xaitta)
 
 
 
@@ -22,7 +22,7 @@ Xiao Shan Costajussa is one of the team members, he worked on display options, b
 The other component of the group is Pau Argiz, he took care about configuration screen, console, camera movement, serialization, memory leaks,  viewports and audio integration. We mainly worked all together.
 
 
-* [GitHub Profile](https://github.com/PauM4)
+* [GitHub Profile](https://github.com/Urii98)
 * [Linkedin Profile](https://www.linkedin.com/in/pau-argiz/)
 
 ## Main Core Sub-Systems
@@ -131,7 +131,7 @@ We had to implement the Audio core subsystem using WWise. It was useful for lear
 ### Two background music that could blend between each other in a loop:
 We did this by basically controlling both the music options in WWise. WWise has many functionalities, including one that lets you create playlist for your sounds, so it’s as easy as creating a sequence and telling Wwise how to play them and in which order. When you do this, as soon as you play the music in the engine, the functions from Wwise have the information on how to play them and in which order.
 
-![87e0aeb976375d098a16106a243e0844](https://github.com/arinWald/KaChowEngine/assets/99820809/ad7ef6e8-99d8-42fe-a80e-e814d22bad81)
+![87e0aeb976375d098a16106a243e0844](https://github.com/xaitta/Animation-Combat/blob/main/docs/media/Gif1.gif)
 
 ### Spatial audio
 Be able to listen the sound effects/music depending on the listener´s position. This is also done easily by the WWise SDK, but you have to do some code aswell. In the WWise application, you have to go to the “Positioning” tab and check the 3D Spatialization aswell as the Attenuation. With this options, WWise generates the soundbanks ready for 3D audio. But this is not it, you have to go to the source code and implement a position and orientation for the listener, so WWise knows how to calculate the distance. We did this with a simple function that asks for 2 parameters: the ID from the gameobject and it´s position. Once you call the function correctly, WWise will register the gameobject’s position and will know how to treat it.
