@@ -7,17 +7,19 @@ The project aims to construct a game engine that is both user-friendly and well-
 
 ### Xiao Shan Costajussa Bellver
 
-![xiaoPic](https://github.com/xaitta/Animation-Combat/blob/main/docs/media/Mi%20cara.jpg)
+![xioaPic](https://github.com/xaitta/Animation-Combat/assets/149255061/74b5b999-40a1-4c6e-9818-983ffd49f31e)
 
 Xiao Shan Costajussa is one of the team members, he worked on display options, bounding boxes, mouse picking, game objects logic, drag and drop and camera settings . We mainly worked all together.
 * [GitHub Profile](https://github.com/xaitta)
 
 
 
+
+
 ### Oriol Martin Corella
 
-![pauPic](https://github.com/arinWald/KaChowEngine/assets/99820809/9e08a22a-f9f9-4012-becc-eb139175f38b)
 
+![oriolPic](https://github.com/xaitta/Animation-Combat/assets/149255061/61a21be1-4fe9-4d0e-a610-af734f529c80)
 
 The other component of the group is Oriol Martin, he took care about configuration screen, console, camera movement, serialization, memory leaks,  viewports and audio integration. We mainly worked all together.
 
