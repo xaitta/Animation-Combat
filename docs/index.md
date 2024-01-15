@@ -14,8 +14,6 @@ Xiao Shan Costajussa is one of the team members, he worked on display options, b
 
 
 
-
-
 ### Oriol Martin Corella
 
 
@@ -138,9 +136,6 @@ Control rendering options:
 
 ### Input
 - **Mouse and Keyboard Inputs:** Display current input.
-
-### Audio
-- **Volume Slider:** Adjust volume.
 
 ### Objects
 Create and manipulate objects:
