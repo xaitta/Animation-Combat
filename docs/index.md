@@ -1,7 +1,6 @@
 # SheeeeshEngine
-SheeeshEngine is a Video Game Engine created by Oriol Martin and Xiao Shan Costajussa. Two students from CITM of Universitat Politècnica de Catalunya (UPC).
-
-The purpose of this project is to create a friendly-user, well optimized Game Engine for the subject “VideoGame Engines” from the 3rd year. The short term plan is to implement the basic features of a Game Engine, such as loading models, working in a 3D environment, etc… Also we implemented the Audio sub-system.
+SheeeshEngine stands as a video game engine conceived by Oriol Martin and Xiao Shan Costajussa, both students from CITM at Universitat Politècnica de Catalunya (UPC). 
+The project aims to construct a game engine that is both user-friendly and well-optimized, tailored for the "VideoGame Engines" course in the 3rd year of our academic journey. In the short term, our plan is to implement essential features typical of a game engine, including tasks such as loading models and functioning within a 3D environment. Notably, we have also successfully incorporated an audio sub-system into the engine.
 
 ## Team Members:
 
