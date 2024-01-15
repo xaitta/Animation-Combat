@@ -45,8 +45,22 @@ While right-clicking:
 - **E:** Move Down
 - **F:** Focus on selected object.
 
+#### Game Objects
+- Drag and drop game objects and textures in the Hierarchy.
+- Create game objects with Game Objects Menu
+- Delete game objects by pressing Delete at Inspector
+- Delete selected game object at Hierarchy by pressing Delete.
+- Move Game Objects in Hierarchy by drag and drop them.
+- Can be picked from the world using the mouse
+
 ### Inspector
-Displays components and properties of selected GameObjects.
+The user should can use the inspector to modify a GameObject:
+- Hierarchy: delete, reparent, create empty and create children
+- Transform: translate, rotate and scale Game Objects.
+- Mesh: select or drop any imported mesh
+- Texture: select or drop any imported texture
+- Camera is a component with settings that can be modified.
+- Audio: Can we control the audio volume, the listening audio clip, the listener, play, pause, resume, and stop audio
 
 ### Components
 Various components available:
@@ -73,11 +87,24 @@ Shows only visible objects in the camera field of view.
 ### Guizmo
 Transform object position, rotation, and scale using Guizmo. Note: Be cautious with parent transforms.
 
-### Serialization
-Basic serialization for saving/loading scene parameters:
+#### Serialization
+We have 2 different json files:
+1.Configuration Engine Json
+Save/Load:
+- FPS
+- Window configuration: width, height, brightness, fullscreen, fullscreen desktop, borderless and resizable.
+- Camera3D: Position of the camera
+- Renderer3D: vsync, wireframe, depthTest, cullFace, Lighting, colorMaterial, Blend, AlphaTest, LineSmooth, PointSmooth, PolygonSmooth.
 
-- Ctrl + S to save.
-- Button in the header menu.
+2.Scene Module Serialization
+Save:
+- Hierarchy Game Objects and Components:
+  	- Name
+  	- Active
+  	- Is Time to Delete
+  	- Type of component
+  	- Material/Texture Path
+  	- Local Transform position
 
 ### Audio Engine and Wwise
 - Audio Listener and Source Components.
