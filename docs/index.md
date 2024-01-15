@@ -19,11 +19,11 @@ Xiao Shan Costajussa is one of the team members, he worked on display options, b
 ![pauPic](https://github.com/arinWald/KaChowEngine/assets/99820809/9e08a22a-f9f9-4012-becc-eb139175f38b)
 
 
-The other component of the group is Pau Argiz, he took care about configuration screen, console, camera movement, serialization, memory leaks,  viewports and audio integration. We mainly worked all together.
+The other component of the group is Oriol Martin, he took care about configuration screen, console, camera movement, serialization, memory leaks,  viewports and audio integration. We mainly worked all together.
 
 
 * [GitHub Profile](https://github.com/Urii98)
-* [Linkedin Profile](https://www.linkedin.com/in/pau-argiz/)
+* [Linkedin Profile](https://www.linkedin.com/in/urimartincorella/)
 
 ## Main Core Sub-Systems
 
