@@ -1,14 +1,13 @@
-# KaChow Engine
-
-KaChow Engine is a Video Game Engine created by Arnau González and Pau Argiz. Two students from CITM of Universitat Politècnica de Catalunya (UPC).
+# SheeeeshEngine
+SheeeshEngine is a Video Game Engine created by Oriol Martin and Xiao Shan Costajussa. Two students from CITM of Universitat Politècnica de Catalunya (UPC).
 
 The purpose of this project is to create a friendly-user, well optimized Game Engine for the subject “VideoGame Engines” from the 3rd year. The short term plan is to implement the basic features of a Game Engine, such as loading models, working in a 3D environment, etc… Also we implemented the Audio sub-system.
 
 ## Team Members:
 
-### Arnau González
+### Xiao Shan Costajussa
 
-![arnauPic](https://github.com/arinWald/KaChowEngine/assets/99820809/84bdc202-9b27-4940-9270-d90577e8b385)
+![xiaoPic](https://github.com/xaitta/Animation-Combat/blob/main/docs/media/Mi%20cara.jpg)
 
 Arnau González is one of the team members, he worked on configuration screen, console, camera settings, serialization, drag and drop, memory leaks, game objects logic, viewports and audio integration. We mainly worked all together.
 
