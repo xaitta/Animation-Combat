@@ -5,22 +5,22 @@ The purpose of this project is to create a friendly-user, well optimized Game En
 
 ## Team Members:
 
-### Xiao Shan Costajussa
+### Xiao Shan Costajussa Bellver
 
 ![xiaoPic](https://github.com/xaitta/Animation-Combat/blob/main/docs/media/Mi%20cara.jpg)
 
-Arnau González is one of the team members, he worked on configuration screen, console, camera settings, serialization, drag and drop, memory leaks, game objects logic, viewports and audio integration. We mainly worked all together.
-
+Xiao Shan Costajussa is one of the team members, he worked on display options, bounding boxes, mouse picking, game objects logic, drag and drop and camera settings . We mainly worked all together.
 * [GitHub Profile](https://github.com/arinWald)
-* [Linkedin Profile](https://www.linkedin.com/in/arnau-gonzalez/)
 
 
-### Pau Argiz
+
+### Oriol Martin Corella
 
 ![pauPic](https://github.com/arinWald/KaChowEngine/assets/99820809/9e08a22a-f9f9-4012-becc-eb139175f38b)
 
 
-The other component of the group is Pau Argiz, he took care about display options, bounding boxes, mouse picking and camera movement. We mainly worked all together.
+The other component of the group is Pau Argiz, he took care about configuration screen, console, camera movement, serialization, memory leaks,  viewports and audio integration. We mainly worked all together.
+
 
 * [GitHub Profile](https://github.com/PauM4)
 * [Linkedin Profile](https://www.linkedin.com/in/pau-argiz/)
@@ -145,17 +145,17 @@ Be able to listen the sound effects/music depending on the listener´s position.
 
 This video demonstrates how the Audio System works, and the whole engine too.
 
-[KaChow Engine Video Demo](https://youtu.be/67ncJesMa70)
+[SheeeeshEngine Video Demo](https://youtu.be/67ncJesMa70)
 
 ## Download the release here:
 
-[Download](https://github.com/arinWald/KaChowEngine/releases/tag/1.5)
+[Download](https://github.com/Urii98/SheeeshEngine/releases/tag/V.3)
 
 ## License
 
 MIT License
 
-Copyright (c) 2024 Arnau González Acosta and Pau Argiz Gutiérrez
+Copyright (c) 2024 Oriol Martin Corella and Xiao Shan Costajussa Bellver
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
